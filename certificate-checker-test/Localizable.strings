@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  certificate-checker-test
+
+  Created by Виктор on 24.08.2023.
+  
+*/
+
+"years_months_days" = "%d years %d months %d days";
